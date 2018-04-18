@@ -1,0 +1,50 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.NavigateAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Database.OpenDbStorageAction">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.UpdatedFiles" />
+  <action id="EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="meta numpad9" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="meta down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="meta up" />
+  </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="caps_lock" second-keystroke="g" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+  </action>
+  <action id="Vcs.EditSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="Vcs.Log.ShowDiff" />
+  <action id="XDebugger.JumpToSource">
+    <keyboard-shortcut first-keystroke="f4" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

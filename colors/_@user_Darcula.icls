@@ -1,0 +1,15 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-12-20T23:03:17</property>
+    <property name="ide">PhpStorm</property>
+    <property name="ideVersion">2017.3.0.0</property>
+    <property name="modified">2017-12-21T19:53:33</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_MODIFIED" value="eee15a" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="e4dc4f" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="eee15a" />
+    <option name="FILESTATUS_modifiedOutside" value="ebe460" />
+  </colors>
+</scheme>

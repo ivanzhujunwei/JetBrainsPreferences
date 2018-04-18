@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7538a4ae-ef8b-4864-8b2f-a4a3cf54de82" name="ForUEdu Server" url="http://ilovestudy.net">
+        <fileTransfer host="ilovestudy.net" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
